@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>6 October 1763. – Copy of the letter from the Elector of Saxony Frederick Christian to the Empress of Russia Catherine II</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Published by Your Name, 2023</p>
+            </publicationStmt>
+            <sourceDesc />
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>6 October 1763. – Copy of the letter from the Elector of Saxony Frederick Christian{{p0995}} to the Empress of Russia Catherine II{{p0033}}</p>
+            <p>Bibliothèque polonaise de Paris, fonds 29, no. 1, f. 1. French original.</p>
+            <p>[[f. 1]]</p>
+            <p>Copie d’une lettre à Sa Majesté Impériale{{p0033}} de Son Altesse Royale l’Electeur de Saxe{{p0995}}</p>
+            <p>Madame</p>
+            <p>Je viens de perdre un bon Roi{{p0057}} et le plus tendre pere ; Votre Majesté{{p0033}} compatira à ma juste douleur : 
+                je viens de la déposer dans Votre sein : et vous confier mes vuës sur la Couronne de Pologne, l’assistance de V[otre] 
+                M[ajesté]{{p0033}} peut seule en assurer le succès, et j’ose me la promettre de ce caractere genereux et magnanime qui 
+                    vous attire l’admiration de l’Univers. J’ai l’honneur d’appartenir à V[otre] M[ajesté]{{p0033}} par les liens de sang, 
+                        et de puis [sic !] plus de soixante ans ma Maison est inviolablement attachée à Votre Empire. Daignés seulement 
+                        Vous persuader, Madame, que V[otre] M[ajesté]{{p0033}} trouvera toujours en moy le même attachement la même fidelité, 
+                            et la même reconnoissance que Vos predecesseurs ont reconnû dans les miens et mes vœux seront remplis. 
+                            Je meriterai la precieuse amitié de Votre Majesté{{p0033}} par mon attention à Lui complaire, et à resserer 
+                                avec Elle les nœuds de la plus etroite alliance : la reconnoissance achevera ce qu’une admiration sincere 
+                                a commencé. Le Ministre que j’enverrai incessament [sic !] auprès de V[otre] M[ajesté]{{p0033}} aura 
+                                    l’honneur de lui exposer mes vuës plus endetail [sic !]. 
+                Dans ces dispositions je suis avec le plus inviolable et le plus respectueux attachement.
+            </p>
+            <p>Madame de Votre Majesté</p>
+            <p>le très humble serviteur</p>
+            <p>Frideric{{p0995}}</p>
+            <p> à Dresde{{g0013}} le 6 8bre 1763.</p>
+            <p>Also see : fr_bpp_29_1_0002</p>
+            <p>fr_bpp_29_1_0004</p>
+        </body>
+    </text>
+</TEI>
