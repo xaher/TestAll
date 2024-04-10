@@ -96,7 +96,10 @@
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
-      
+	<![CDATA[{
+	
+	}]]>
+	</rdf:Description>
         <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
           <![CDATA[{
 	"@context": {
