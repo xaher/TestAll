@@ -47,6 +47,32 @@
         <classCode scheme="{URL}/classifikation#ID_1">metered strophic (dance) song</classCode>
       </textClass>
     </profileDesc>
+        <xenoData>
+      <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[
+            {"@context": "http://www.w3.org/ns/xapi.jsonld",
+             "raw_metadata": {
+                "file": "025_Çevmegir_702_0919_TR",
+                "source audio file": "025_Çevmegir_702_0919",
+                "url": "",
+                "location in archive": "Gazin Voice Recorder 2/c",
+                "performer": "Dengbêj Gazîn",
+                "author-composer": "not known / ne kifş e / bilinmiyor",
+                "title": "Çevê me girê dan, destê me’d kelemçan",
+                "genre": "ID_1",
+                "state of publication": "",
+                "year of recording": "2000-2015",
+                "Kurdish transcription": "Rêbîn Özmen",
+                "Kurdish proofreading": "Argun Çakır",
+                "Turkish translation": "Argun Çakır"
+             }
+            }
+           ]]>
+        </rdf:Description>
+      </rdf:RDF>
+    </xenoData>
     
   </teiHeader>
   <text>
