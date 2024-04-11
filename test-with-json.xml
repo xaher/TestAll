@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
+<TEI type="poem" xml:id="gazin_025_cevmegir_702_0919_kur" xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">   <teiHeader>     <fileDesc>       <titleStmt>         <!-- title -->         <title type="main">Çevê me girê dan, destê me’d kelemçan</title>         <!-- author-composer -->         <author role="composer">           <persName>             <!-- <forename>Max</forename> -->             <!-- <surname>Mustermann</surname> --> not known            </persName>         </author>          <!-- transcription -->         <editor role="transcriptor">Rêbîn Özmen</editor>         <!-- proofreading -->         <editor role="corrector">Argun Çakır</editor>         <!-- proofreading -->         <editor role="translator">Argun Çakır</editor>       </titleStmt>       <publicationStmt>         <publisher>Beispiel Verlag</publisher>         <pubPlace>Beispielstadt</pubPlace>         <availability>           <licence target="http://creativecommons.org/licenses/by-sa/2.0/de/">CC BY-SA 2.0 (German)</licence>         </availability>       </publicationStmt>       <sourceDesc>         <msDesc>           <!-- performer -->           <msIdentifier>             <!-- location in archive -->             <repository>Gazin Voice Recorder</repository>             <idno>2/c</idno>           </msIdentifier>           <physDesc>           <musicNotation>             <persName type="performer">Dengbêj Gazîn</persName>             <!-- source audio file -->             <ref>{URL}/025_Çevmegir_702_0919</ref>             <!-- url -->             <ref/>             </musicNotation>           </physDesc>         </msDesc>         <recordingStmt>           <recording type="audio">             <date when="2000" to="2015" type="recording">2000-2015</date>           </recording>          </recordingStmt>        </sourceDesc>     </fileDesc>     <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "undefined?rs_annotation_20240411101011282",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-04-11T08:10:11.282Z",
+	"dcterms:modified": "2024-04-11T08:10:11.282Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/xaher",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "André Herzog"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "undefined?rs_annotation_20240411101011282#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://stable.leafwriter.users.h-da.cloud",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "undefined?rs_annotation_20240411101011282#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/lg[3]/l[3]/rs"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "http://www.wikidata.org/entity/Q25625318",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://stable.leafwriter.users.h-da.cloud",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      </rdf:RDF></xenoData><profileDesc>       <langUsage>         <!-- Extracted from the file name -->         <language ident="kur">Kurdish</language>       </langUsage>       <textClass>         <!-- genre (classification string is imported from a classification table) -->         <classCode scheme="{URL}/classifikation#ID_1">metered strophic (dance) song</classCode>       </textClass>     </profileDesc>     <xenoData type="json">            </xenoData>   </teiHeader>   <text>     <body>       <div type="song" subtype="metered-strophic">         <head>Çevê me girê dan, destê me’d kelemçan</head>         <lg>           <l>…(Ç)evê me girê dan, destê me’d kelemçan</l>           <l>Çevê me girê dan, destê me’d kelemçan</l>           <l>Me xistine zindanan, dijmin bê dîn e bê îman</l>           <l>Me xistine zindanan, dijmin ne dîn e ne îman</l>         </lg>         <lg>           <l>Delal delal delal, emrê <hi rend="italic">(sic. amrê?)</hi> min delal î</l>           <l>Delal delal delal, berxê mi delal î</l>           <l>Delal delal delal</l>         </lg>         <lg>           <l><placeName>Stenbola</placeName> reş û tarî xwîna gelê min xarî</l>           <l><placeName>Stenbola</placeName> reş û tarî xwuna berxê min xarî</l>           <l>Berxê were tunê bêj <rs key="Berxwedana Sûrê, 2015-2016" ref="http://www.wikidata.org/entity/Q25625318">Berxwedana</rs> dayikê</l>           <l>Berxwedana dayikê</l>         </lg>         <lg>           <l>Delal delal delal, emrê mi delal î</l>           <l>Delal delal delal, berxê minê delal î</l>         </lg>         <lg>           <l>Dijminê hov û hov û xwer weke gurê bi… Dijmin hov e weke -e gurê har… Canê min ê… Canê             min ê birîndar, dijmin hov e weke gurê har</l>           <l>Canê min ê birîndar, dijmin hov e weke gurê har</l>           <l>Ez li berê tikim zarezar, li mi tikin avê sar</l>           <l>Li min tikin avê sar</l>         </lg>         <lg>           <l>Delal delal delal emrê mi delal î</l>           <l>Delal delal delal berxê minê delal î</l>         </lg>       </div>     </body>   </text> </TEI>
